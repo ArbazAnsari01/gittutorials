@@ -1,2 +1,3 @@
                                                       This is Git Tutorial
                                      Get Ready for new milestone and brainstorming...
+                               Let's something to make you more understand and easy grasp
